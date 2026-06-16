@@ -31,3 +31,7 @@ A desktop application developed in **Java** that simulates real restaurant opera
 
 * **Language:** Java
 * **Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)
+
+## 📊 System Architecture (UML Diagram)
+
+![UML Diagram](UML-Diagram.png)
